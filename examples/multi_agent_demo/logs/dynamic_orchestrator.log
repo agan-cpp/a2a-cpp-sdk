@@ -1,0 +1,12 @@
+[RedisTaskStore] 连接到 Redis 127.0.0.1:6379
+[RedisTaskStore] 连接成功
+[Orchestrator] 初始化完成
+[Orchestrator] 启动在端口 5000
+HTTP Server listening on port 5000
+[Orchestrator] 已注册到服务中心
+[Orchestrator] 收到消息: 1+2
+[RedisTaskStore] 保存任务: session-1764516300
+[RedisTaskStore] 添加历史消息到: session-1764516300 (角色: User)
+[Orchestrator] 识别意图: math
+[Orchestrator] 调用 Math Agent: http://localhost:5001
+[RedisTaskStore] 添加历史消息到: session-1764516300 (角色: Agent)

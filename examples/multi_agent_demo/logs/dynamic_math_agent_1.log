@@ -1,0 +1,9 @@
+[RedisTaskStore] 连接到 Redis 127.0.0.1:6379
+[RedisTaskStore] 连接成功
+[Math Agent] 初始化完成
+[Math Agent] 启动在端口 5001
+HTTP Server listening on port 5001
+[Math Agent] 已注册到服务中心
+[Math Agent] 收到消息: 1+2 (history_length=5)
+[RedisTaskStore] 获取历史: session-1764516300 (数量: 1)
+[Math Agent] AI 响应: 3

@@ -1,0 +1,8 @@
+[RedisTaskStore] 连接到 Redis 127.0.0.1:6379
+[RedisTaskStore] 连接成功
+[Main] 创建 Redis TaskStore: 127.0.0.1:6379
+[Orchestrator] 初始化完成（使用 Redis TaskStore）
+[Orchestrator] 启动在端口 5000
+HTTP Server listening on port 5000
+
+[Orchestrator] 收到信号 15，正在关闭...
