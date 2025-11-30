@@ -186,7 +186,7 @@ int main(int argc, char* argv[]) {
     std::signal(SIGTERM, signal_handler);
     
     try {
-        std::string api_key = "sk-2663f076466a4c469f3b992c5e629c20";
+        std::string api_key = "own—key";
         std::string redis_host = "127.0.0.1";
         int redis_port = 6379;
         int port = 5001;

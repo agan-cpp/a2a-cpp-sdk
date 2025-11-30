@@ -345,6 +345,9 @@ redis-cli LRANGE "a2a:history:my-session" 0 -1
 curl http://localhost:8500/v1/agents | jq
 ```
 
+## 抓包验证
+ sudo tcpdump -i any -w a2a_traffic3.pcap 'port 5000 or port 5001 or port 6379 or port 8500'
+
 ### 6. 停止系统
 
 ```bash

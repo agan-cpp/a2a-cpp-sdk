@@ -19,7 +19,7 @@
 using namespace a2a;
 using json = nlohmann::json;
 
-const std::string API_KEY = "sk-2663f076466a4c469f3b992c5e629c20";
+const std::string API_KEY = "own—key";
 
 class DynamicMathAgent {
 public:
